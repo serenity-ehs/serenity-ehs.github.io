@@ -1,6 +1,9 @@
 ---
 title: Serenity EHS Documentation Home
+redirect_from:
+  - /docs/
 ---
+![Serenity EHS Logo](/images/serenity_ehs_color_grey_trans_320x52.png)
 
 # Welcome to the Serenity EHS documentation site
 
