@@ -6,7 +6,7 @@ repository: https://github.com/serenity-ehs/serenity-ehs.github.io
 timezone: America/Los_Angeles
 twitter:
   username: serenity_ehs
-theme: jekyll-theme-slate
+
 logo: "/github.png"
 collections:
   docs:
