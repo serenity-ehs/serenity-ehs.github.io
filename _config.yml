@@ -7,7 +7,7 @@ timezone: America/Los_Angeles
 twitter:
   username: serenity_ehs
 
-logo: "/github.png"
+logo: "/images/github.png"
 collections:
   docs:
     permalink: "/:collection/:path/"
