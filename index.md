@@ -1,3 +1,7 @@
+---
+title: Serenity EHS Documentation Home
+---
+
 # Serenity EHS
 
 ## Welcome to the Serenity EHS documentation site
