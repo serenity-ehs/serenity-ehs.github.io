@@ -1,5 +1,5 @@
 ---
-title: Serenity EHS Documentation Home
+title: Documentation Home
 redirect_from:
   - /docs/
 ---
@@ -7,24 +7,40 @@ redirect_from:
 
 # Welcome to the Serenity EHS documentation site
 
-**This site is under construction**
-
 ## Support
-For additional support, email us at [info@serenityehs.com](mailto:info@serenityehs.com).
+For additional support, email us at [support@serenityehs.com](mailto:support@serenityehs.com).
 
-## [Quick Start Guide](/docs/quickstart/)
+# Modules
 
-## [Common (Core) Components](/docs/core/)
-* Organizations
-* Establishemnts
+### Serenity Organizational Data
 
-## Serenity EHS Modules
+### Serenity Health & Safety
 
-### [Incident Management](/docs/incident/)
-* Incidents
-* Injuries / Illnesses
-* Releases
 
-### [Corrective and Preventive Actions (CAPA)](/docs/capa/)
-* Corrective and Preventive Actions
-* CAPA Tasks
+## Core Componenets
+
+# Applications
+
+## Core
+
+[View on the ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/application/ab48c3a31b0340500df8fe60cd4bcb54)
+[About](/docs/scopes/core.md)
+[Installation Guide](/docs/install_guides/core.md)
+
+## Health & Safety
+
+[View on the ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/application/20b88ba71b0340500df8fe60cd4bcbd5)
+[About](/docs/scopes/health_safety.md)
+[Installation Guide](/docs/install_guides/health_safety.md)
+
+## Inspections, Audits, and Site Walkthrough
+
+[View on the ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/application/137ac6f71b3f80505dcc99f91d4bcbab)
+[About](/docs/scopes/inspections.md)
+[Installation Guide](/docs/install_guides/inspections.md)
+
+## Compliance Assurance
+
+[View on the ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/application/feceda6bdb70145025ab4d9c1396196d)
+[About](/docs/scopes/compliance_assurance.md)
+[Installation Guide](/docs/install_guides/compliance_assurance.md)
