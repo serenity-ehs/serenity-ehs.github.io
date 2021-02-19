@@ -6,8 +6,6 @@ repository: https://github.com/serenity-ehs/serenity-ehs.github.io
 source: /
 incremental: false
 timezone: America/Los_Angeles
-twitter:
-  username: serenity_ehs
 
 logo: "/images/github.png"
 
