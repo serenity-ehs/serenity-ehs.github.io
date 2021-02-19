@@ -4,5 +4,5 @@ description: Environmental, Health, and Safety for the ServiceNow Platform
 url: https://docs.serenityehs.com
 repository: https://github.com/serenity-ehs/serenity-ehs.github.io
 timezone: America/Los_Angeles
-
+source: .
 logo: "/images/github.png"
