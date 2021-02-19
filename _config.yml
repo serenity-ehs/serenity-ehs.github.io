@@ -8,20 +8,12 @@ twitter:
   username: serenity_ehs
 
 logo: "/images/github.png"
-collections:
-  docs:
-    permalink: "/:collection/:path/"
-    output: true
-  posts:
-    permalink: "/news/:year/:month/:day/:title/"
-    output: true
-  tutorials:
-    output: true
+
 plugins:
 - jekyll-avatar
 - jekyll-feed
 - jekyll-mentions
-##- jekyll-redirect-from
+- jekyll-redirect-from
 - jekyll-seo-tag
 - jekyll-sitemap
 - jemoji
